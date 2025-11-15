@@ -58,4 +58,4 @@ Task 5:
 
 Task 6:
 
-aws ec2 delete-security-group --group-id sg-0253c830be8d1a6a3 --region eu-central-1
+aws ec2 delete-security-group --group-id sg-027c086ee7ee3995f --region eu-central-1
